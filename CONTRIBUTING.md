@@ -1,6 +1,6 @@
 # Adding a project
 
-Use one lower-case folder under `apps/`, with words separated by hyphens. Match the same app to its guide in the portfolio. Use a new folder for a distinct product and describe changes to an existing product in its current guide.
+Use one public repository per app with a lower-case, hyphenated name. Link the same repository from the profile index and its portfolio card.
 
 Start each README with **Architecture**. Explain who uses the app, draw the path from input to output, and walk through one real interaction. In **APIs and interfaces**, name the caller, the interface and the data being exchanged. Identify which parts are shipped, prototypes or examples. Give a reproducible command for runnable code.
 
