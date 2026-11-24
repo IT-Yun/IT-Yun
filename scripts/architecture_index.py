@@ -51,7 +51,7 @@ def build():
         status="Reviewed" if section and entry.get("digest")==hashlib.sha256(section.encode()).hexdigest() else ("Design needs review" if section else "Architecture heading missing")
         description=entry.get("system","Awaiting a reviewed system description")
         lines.append(f"| [{name}](https://github.com/{OWNER}/{name}#readme) | {description} | {status} |")
-    lines+=["","The daily check discovers public repositories and flags new or changed architecture sections. Only reviewed descriptions appear here. [View the check history](../../actions/workflows/architecture-index.yml).",""]
+    lines+=["","The daily check discovers public repositories and flags new or changed architecture sections. Only reviewed descriptions appear here. [View the check history](https://github.com/IT-Yun/IT-Yun/actions/workflows/architecture-index.yml).",""]
     (ROOT/"ARCHITECTURE.md").write_text("\n".join(lines))
 
 if __name__ == "__main__":build()

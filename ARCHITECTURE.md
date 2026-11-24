@@ -28,4 +28,4 @@ Open a repository to inspect its README and source. The system column describes 
 | [voice-life](https://github.com/IT-Yun/voice-life#readme) | Speech or text entry → local review → daily plan | Reviewed |
 | [wru-radio](https://github.com/IT-Yun/wru-radio#readme) | iOS radio controls → room membership → audio and optional location sharing | Reviewed |
 
-The daily check discovers public repositories and flags new or changed architecture sections. Only reviewed descriptions appear here. [View the check history](../../actions/workflows/architecture-index.yml).
+The daily check discovers public repositories and flags new or changed architecture sections. Only reviewed descriptions appear here. [View the check history](https://github.com/IT-Yun/IT-Yun/actions/workflows/architecture-index.yml).
