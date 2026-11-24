@@ -1,0 +1,29 @@
+name: Public architecture index
+on:
+  schedule:
+    - cron: '37 22 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: public-architecture-index
+  cancel-in-progress: false
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Check public architecture guides
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/architecture_index.py
+      - name: Update the directory if it changed
+        run: |
+          if ! git diff --quiet -- ARCHITECTURE.md; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add -- ARCHITECTURE.md
+            git commit -m 'Refresh the public architecture directory'
+            git push origin HEAD:"$GITHUB_REF_NAME"
+          fi

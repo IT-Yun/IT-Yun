@@ -1,5 +1,7 @@
 # Apps and architecture
 
+[Browse the architecture of every public repository](ARCHITECTURE.md)
+
 ## Architecture at a glance
 
 These projects range from a desktop AI workspace to a metronome that keeps several phones on the same beat. Pick an app below to see what happens after a person taps a button, where the work runs and what gets saved.

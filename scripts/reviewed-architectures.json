@@ -1,0 +1,94 @@
+{
+  "IT-Yun": {
+    "digest": "90e3f457547d885809c2db15ba2e859d28927401272654e98046441923889d9a",
+    "system": "Project directory → architecture guides → runnable examples"
+  },
+  "Stock": {
+    "digest": "d430c261ce3a06017fa2426c95bf0520b08893ba3127c42dc7074d444e8468b6",
+    "system": "Market feeds → Python indicators → React research dashboard"
+  },
+  "adelaide-to-go": {
+    "digest": "90c2e8ab25851c4d1bbff86585bc2c64a3a017c55ff263ae4ae851c6d36f4d50",
+    "system": "Flutter discovery view → FastAPI → geographic queries in PostGIS"
+  },
+  "appdesk": {
+    "digest": "1e7d6dc9f40eca27490f025c3dd1c8b907b9a0cd7ab39f2cac8659c61ef704bf",
+    "system": "iPhone request → cloud queue → subscription-authenticated AI terminal"
+  },
+  "ausmetic": {
+    "digest": "d7c62528a9415db276973811fa570986819add0272b469cf22b9ab3d2f7eaad5",
+    "system": "Product variant and offers → delivery-cost calculation → comparable totals"
+  },
+  "band-sync": {
+    "digest": "55450e564e2544abb2404f6910940cff1653f05e04e634c9718cbc0a1eb2fad0",
+    "system": "Shared room clock → scheduled start time → audio clicks on each phone"
+  },
+  "chagok": {
+    "digest": "0716a77f8134b059b867972162822d07a4a0c32ee1e9b58bd7c5dd32af48d7aa",
+    "system": "SwiftUI calendar → validated entries → on-device planner records"
+  },
+  "codelens": {
+    "digest": "d7a6894f00ad20e9af0f548f068f254440e60a8003784be40723b702599a50d5",
+    "system": "Project files → static analysis → diagrams linked to source code"
+  },
+  "flinders-collab": {
+    "digest": "dfc1b33bb5c1458d3cfa32894921828044ccab8d4f77b326c03cbeb96ec9d171",
+    "system": "React client → Express and Socket.IO → persistent group records"
+  },
+  "flinders-collab-app": {
+    "digest": "dfc1b33bb5c1458d3cfa32894921828044ccab8d4f77b326c03cbeb96ec9d171",
+    "system": "Shared room → live conversation and saved tasks → returning group members"
+  },
+  "job-hunter": {
+    "digest": "50245ec42f76266b666c77250be6d74f02cc42589f4dec4adb1a44b5af192642",
+    "system": "Browser and extension → local Python service → application records in SQLite"
+  },
+  "kimchi-studio": {
+    "digest": "41175546478e39631bc2f0672af0197c2d2aae1bcb2c72cefa15880114975f73",
+    "system": "Source video → timed transcript and edit plan → captioned render"
+  },
+  "market-learning-lab": {
+    "digest": "f945372720d6da9d2565536eab05b67fc7395a00465df46f91789ba5da5785bb",
+    "system": "Browser listing form → Node.js HTTP service → SQLite row"
+  },
+  "portfolio-architecture": {
+    "digest": "66fd0a0be658350c132182f6ea38e3ed86ee1fcf277b9ba1bc68ef678392fd00",
+    "system": "Project catalogue → Next.js case pages → static website"
+  },
+  "pte-study-dashboard": {
+    "digest": "3173203d5846dff51ecc699a8e1b0ece989b78c8003f2d7cf0f7e96ce5e2e223",
+    "system": "Study dashboard → local HTTP service → Markdown notes and progress"
+  },
+  "seanwiki-desktop": {
+    "digest": "7c6c1ffac709c3dedc259f0ef5b405be2f090e0d7e2c5e624e3b8c9abf7bc127",
+    "system": "Electron workspace → AI terminal bridge → project notes on the Mac"
+  },
+  "seanwiki-releases": {
+    "digest": "175ae8671f47bf0e27ce7b44450dd261f0bf639f8cfe895f9b1c930262d36828",
+    "system": "macOS app release → verification materials → local installation"
+  },
+  "stock-research-dashboard": {
+    "digest": "d430c261ce3a06017fa2426c95bf0520b08893ba3127c42dc7074d444e8468b6",
+    "system": "Market observations → calculated indicators → AI-assisted research checklist"
+  },
+  "team-rooms": {
+    "digest": "4fee21d22dc53ddfcde62d079b1848ae38e29f6d1490498d4a9c2cd6db977544",
+    "system": "React Native client → Express and Socket.IO → stored room history"
+  },
+  "torrens-market": {
+    "digest": "fc7d69cb3cecdeb24c547210f8708a646f36a75972af2e61edc89f372871dff6",
+    "system": "Expo mobile app → Supabase authentication and database policies → listings and chat"
+  },
+  "torrens-market-ios": {
+    "digest": "fc7d69cb3cecdeb24c547210f8708a646f36a75972af2e61edc89f372871dff6",
+    "system": "Mobile listing feed → Supabase query → sorted and filtered items"
+  },
+  "voice-life": {
+    "digest": "881dd20c4f4748f7f53a2cdfa52287541e468e81037e69d376816459ad763b2f",
+    "system": "Speech or text entry → local review → daily plan"
+  },
+  "wru-radio": {
+    "digest": "31ba8868fec9542b8d28903e19569e33d850c3221ff3ff1f6fef2c65c3a5153e",
+    "system": "iOS radio controls → room membership → audio and optional location sharing"
+  }
+}
